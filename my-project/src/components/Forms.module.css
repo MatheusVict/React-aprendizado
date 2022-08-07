@@ -1,0 +1,28 @@
+.formContainer {
+    background-color: #6e6f71;
+    border: solid 2px gray;
+    border-radius: 15px;
+}
+
+.formContent {
+    border-radius: 9px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.formButton {
+    border-radius: 9px;
+    letter-spacing: 2pt;
+    width: 130px;
+}
+
+.form {
+    border-radius: 20px;
+    width: 400px;
+    height: 300px;
+}
+
+.form h1 {
+    color: aqua;
+}

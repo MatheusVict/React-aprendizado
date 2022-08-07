@@ -1,0 +1,6 @@
+@media (min-width: 400px)  and (max-width: 450px) {
+  .personContainer img {
+    width: 300px;
+  }  
+}
+
